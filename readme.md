@@ -1,11 +1,25 @@
-<hi>fasdfa<hi/>
-1 about project
-	this is simple basic User management project built on laravel framework, 
-	i use npm, adminlte, vform and done this porject on vue component.
+# Web Application (User Management System)
 
-2 to install this project
-	-- just copy this project on your local server
-	-- there is a database file on that project just import it
-	-- database file name is laravel_npmAdminlte.sql
+## Introduction
+	This is simple basic User management project built on laravel framework, the following
+	are tools and dependencies use in this project.
 
-3 now run your server with the help of "php artisan serve" code
+	1. [bootstrap]
+	2. [vue]
+	3. [fortawesome]
+	4. [moment]
+	5. [sweetalert2]
+	6. [vform]
+	7. [vue-progressbar]
+	8. [vue-router]
+
+
+
+## Installation
+	1. Download or clone 
+		-- for clone --
+		git clone [https://github.com/lifetoss/UserManagement_npmAdminlte_vue.git]
+
+	2. There is a database file on that project just import it
+	3. Database file name is laravel_npmAdminlte.sql
+	4. now run your server with the help of "php artisan serve"
