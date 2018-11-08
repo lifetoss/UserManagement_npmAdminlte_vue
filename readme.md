@@ -1,7 +1,7 @@
 # Web Application (User Management System)
 
 ## Introduction
-	This is simple basic User management project built on laravel framework, the following
+	This is simple basic User management project built on laravel framework using vue component, the following
 	are tools and dependencies use in this project.
 
 	1. [bootstrap]
